@@ -1,0 +1,1332 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
+// {
+//     "status": "ok",
+//     "totalResults": 233,
+//     "articles": [
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Android Central"
+//     },
+//     "author": "tips@androidcentral.com (Vishnu Sarangapurkar)",
+//     "title": "Spotify bumps up its Premium pricing for the first time",
+//     "description": "Music streaming services are on the verge of increasing their Premium offerings lately. Apple Music last year, YouTube Music this year raised their prices, and Spotify now joins the list as well.",
+//     "url": "https://www.androidcentral.com/streaming-tv/spotify-to-bump-up-its-premium-pricing",
+//     "urlToImage": "https://cdn.mos.cms.futurecdn.net/nS4bjbyKmiSYtyq4VFAYJF-1200-80.jpeg",
+//     "publishedAt": "2023-07-25T02:48:48Z",
+//     "content": "<ul><li>Spotify Premium plans will increase in price by $1, though subscribers will get a one-month grace period before having to pay it.</li><li>The new tier pricing will take effect in over 50 coun… [+2057 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "The Guardian"
+//     },
+//     "author": "Guardian staff with agencies",
+//     "title": "Spotify increases premium price plans as streaming services feel strain",
+//     "description": "Change comes after streaming giant attempts to boost margins with layoffs and restructure of podcasting unitSpotify has raised prices for its premium plans across several countries including the US, UK and Australia, as the music-streaming company looks to bo…",
+//     "url": "https://www.theguardian.com/technology/2023/jul/25/spotify-prices-increase-rise-premium-plans-global",
+//     "urlToImage": "https://i.guim.co.uk/img/media/12fcd4e8f91f23666b143708db88d470233fa5d0/0_122_3700_2219/master/3700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4eac9584e8199858cfb1d67f4ac004ef",
+//     "publishedAt": "2023-07-25T01:41:31Z",
+//     "content": "Spotify has raised prices for its premium plans across several countries including the US, UK and Australia, as the music-streaming company looks to boost profitability in an uncertain economy.\r\nMond… [+1899 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Toot.cat"
+//     },
+//     "author": "John Gruber",
+//     "title": "Using AirPods as a Hearing Aid",
+//     "description": "Using AirPods as a Hearing Aid (Revised)\n\nI posted a link to an article earlier about what we can do to prevent dementia.\nhttps://mstdn.social/@garry/110004588618144618\n\nOne thing that was news to me is that there is a link between poor hearing and dementia. …",
+//     "url": "https://toot.cat/@garry/110005074038777944",
+//     "urlToImage": null,
+//     "publishedAt": "2023-07-25T02:31:01Z",
+//     "content": "Garry Knight:\n\n\n I spent a lot of time some years ago working with very loud sound\nwhile producing music with pro level headphones. Subsequently my\nability to hear sounds at 1,000 Hz and above was gr… [+719 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Digital Trends"
+//     },
+//     "author": "Trevor Mogg",
+//     "title": "Another report suggests the iPhone 15 Pro will be pricier",
+//     "description": "Apple is considering hiking the price of the iPhone 15 Pro when it launches in the fall, despite holding the launch price steady for the last four years.",
+//     "url": "http://www.digitaltrends.com/mobile/apple-considering-hiking-the-price-of-iphone-15-pro/",
+//     "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/iphone-14-pro-max-review-4.jpg?resize=1200%2C630&p=1",
+//     "publishedAt": "2023-07-25T01:30:39Z",
+//     "content": "Apple is expected to manufacture a slightly smaller number of iPhone 15 handsets compared to the iPhone 14 last year, but the company is eyeing an increase in revenue when the device launches in the … [+1592 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "9to5Mac"
+//     },
+//     "author": "Filipe Espósito",
+//     "title": "K-pop band NewJeans partners with Apple for new music video shot with iPhone 14 Pro",
+//     "description": "Apple has been promoting the iPhone 14 Pro’s camera in a series of advertisements recently, and now the company is back with another campaign. But instead of a regular ad, Apple has partnered with K-pop band NewJeans to film a new music video entirely with th…",
+//     "url": "https://9to5mac.com/2023/07/24/apple-newjeans-video-iphone-14-pro/",
+//     "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Apple-NewJeans-Shot-on-iPhone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//     "publishedAt": "2023-07-25T00:08:22Z",
+//     "content": "Apple has been promoting the iPhone 14 Pro’s camera in a series of advertisements recently, and now the company is back with another campaign. But instead of a regular ad, Apple has partnered with K-… [+1550 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "AppleInsider"
+//     },
+//     "author": "news@appleinsider.com (Wesley Hilliard)",
+//     "title": "K-pop band NewJeans 'ETA' music video Shot on iPhone in collaboration with Apple",
+//     "description": "The latest Shot on iPhone collaboration is a music video from NewJeans shot entirely on an iPhone 14 Pro.The NewJeans websiteShot on iPhone is a campaign from Apple meant to showcase the photo and video capabilities of iPhone. It has produced everything from …",
+//     "url": "https://appleinsider.com/articles/23/07/25/k-pop-band-newjeans-eta-music-video-shot-on-iphone-in-collaboration-with-apple",
+//     "urlToImage": "https://photos5.appleinsider.com/gallery/55570-112837-NewJeans-xl.jpg",
+//     "publishedAt": "2023-07-25T01:00:40Z",
+//     "content": "The NewJeans website\r\nThe latest Shot on iPhone collaboration is a music video from NewJeans shot entirely on an iPhone 14 Pro.\r\nShot on iPhone is a campaign from Apple meant to showcase the photo an… [+1331 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Phandroid - News for Android"
+//     },
+//     "author": "Specious Coda-Bishop",
+//     "title": "Dev Kits applications go out for new Apple VR Headset",
+//     "description": "As applications open for the new visonOS, Apple have some criteria for potential candidates to meet if they want to get a dev kit.",
+//     "url": "https://phandroid.com/2023/07/25/dev-kits-applications-go-out-for-new-apple-vr-headset/",
+//     "urlToImage": null,
+//     "publishedAt": "2023-07-25T04:12:12Z",
+//     "content": "Apple has exciting news for developers as they unveil the Vision Pro headset developer kit, now available for application through the company’s website. This comprehensive kit comes complete with the… [+2574 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Xataka Android"
+//     },
+//     "author": "Iván Ramírez",
+//     "title": "Google abandona el soporte para Android KitKat en los Servicios de Google Play",
+//     "description": "Android KitKat se derretirá de forma prácticamente definitiva con el calor de agosto, pues Google ha anunciado que dejará de darle soporte a esta versión de Android en sus Servicios de Google Play.\n<!-- BREAK 1 -->\nHace ya dos años, Google acababa con el sopo…",
+//     "url": "https://www.xatakandroid.com/sistema-operativo/google-abandona-soporte-para-android-kitkat-servicios-google-play",
+//     "urlToImage": "https://i.blogs.es/6fe927/derretido/840_560.jpeg",
+//     "publishedAt": "2023-07-25T06:00:53Z",
+//     "content": "Android KitKat se derretirá de forma prácticamente definitiva con el calor de agosto, pues Google ha anunciado que dejará de darle soporte a esta versión de Android en sus Servicios de Google Play.\r\n… [+1670 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Appinn.com"
+//     },
+//     "author": "青小蛙",
+//     "title": "新型 Apple ID 诈骗：有双重认证仍被钓鱼。附一个可能的预防小技巧",
+//     "description": "昨天 V2EX 有一个帖子《家人的 Apple ID 开了双重认证，仍然被钓鱼，求大佬解惑，也顺便给大家提个醒》，详细描述了一个新的诈骗过程：在 Apple ID 开通双重认证的情况下，被高仿的李鬼 App 诱骗出密码，",
+//     "url": "https://www.appinn.com/apple-id-2fa-login-tips/",
+//     "urlToImage": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-24t230511-752.jpgo_.jpg",
+//     "publishedAt": "2023-07-25T02:51:00Z",
+//     "content": "V2EX Apple ID Apple ID App @Appinn\r\n<ul><li> App App Store </li><li>7 11 Apple Store App Apple ID iCloud+ Apple ID </li><li> App Store App App Store </li></ul><ul><li> Apple ID </li><li></li><li> App… [+143 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ifanr.com"
+//     },
+//     "author": "方嘉文",
+//     "title": "早报| Twitter 正式告别「小蓝鸟」/ iPhone 15 Pro 系列预计将涨价/华为 HarmonyOS 4 下个月发布",
+//     "description": "· 华为鸿蒙 HarmonyOS 4 定档 8 月\n· 一加预告：将在 ChinaJoy 发布新技术\n· Peets 皮爷咖啡推出「新鲜达」咖啡服务#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+//     "url": "https://www.ifanr.com/1556476",
+//     "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/lu_ying_cover.jpg",
+//     "publishedAt": "2023-07-25T01:00:20Z",
+//     "content": "Twitter X\r\nTwitter XX\r\nlogo Special Alphabet 4 X \r\nInsider Meta Xlogo\r\nMeta X logo X \r\nMeta X X \r\nTwitter X Meta \r\n X \r\n The Verge Twitter \r\nGetty Images \r\nOpenAI Sam Altman Worldcoin\r\n 30% 2.2 2.3 \r… [+875 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "01net.com"
+//     },
+//     "author": "Mickael Bazoge",
+//     "title": "Vision Pro : on connaît les conditions pour être les premiers à jouer avec le casque d’Apple",
+//     "description": "À partir du début de l'année prochaine, les utilisateurs d'Apple (du moins, ceux qui en auront les moyens) vont entrer dans une nouvelle dimension, celle de la réalité mixte avec le Vision Pro. Pour les développeurs aussi, le casque et son système d'exploitat…",
+//     "url": "https://www.01net.com/actualites/vision-pro-il-est-possible-de-recevoir-le-casque-dapple-avant-tout-le-monde.html",
+//     "urlToImage": "https://www.01net.com/app/uploads/2023/07/apple-vision-pro-developpeurs-apps.jpg",
+//     "publishedAt": "2023-07-25T05:30:50Z",
+//     "content": "À partir du début de l’année prochaine, les utilisateurs d’Apple (du moins, ceux qui en auront les moyens) vont entrer dans une nouvelle dimension, celle de la réalité mixte avec le Vision Pro. Pour … [+2514 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "bbc-news",
+//     "name": "BBC News"
+//     },
+//     "author": "https://www.facebook.com/bbcnews",
+//     "title": "TikTok: Chinese platform challenges X and Threads with text-only posts",
+//     "description": "The Chinese-owned app says the new function gives users \"another way to express themselves\".",
+//     "url": "https://www.bbc.co.uk/news/business-66297595",
+//     "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14EA6/production/_130507658_gettyimages-1257684483.jpg",
+//     "publishedAt": "2023-07-25T05:03:30Z",
+//     "content": "Video streaming app TikTok says it will offer text-only posts as it becomes the latest technology giant to challenge X, Elon Musk's rebranded Twitter platform.\r\nThe Chinese-owned app says the new fea… [+1783 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "GSMArena.com"
+//     },
+//     "author": "Vlad",
+//     "title": "Sony's best ever noise cancelling earbuds are finally here: meet the WF-1000XM5",
+//     "description": "As expected, Sony finally took the wraps off the WF-1000XM5 ANC earbuds a few hours ago - don't confuse these with the already available WH-1000XM5 which are over-the-ear headphones.\n\nThe new buds come with \"Sony's biggest ever step forward in noise cancellin…",
+//     "url": "https://www.gsmarena.com/sonys_best_ever_noise_cancelling_earbuds_are_finally_here_meet_the_wf1000xm5-news-59295.php",
+//     "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/07/sony-wf-1000xm5-official/-952x498w6/gsmarena_000.jpg",
+//     "publishedAt": "2023-07-25T00:59:01Z",
+//     "content": "As expected, Sony finally took the wraps off the WF-1000XM5 ANC earbuds a few hours ago - don't confuse these with the already available WH-1000XM5 which are over-the-ear headphones.\r\nThe new buds co… [+2405 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Impress.co.jp"
+//     },
+//     "author": null,
+//     "title": "Apple、「iOS/iPadOS 16.6」で悪用済み2件を含む多数の脆弱性を修正",
+//     "description": "Appleは、「iOS 16.6」および「iPadOS 16.6」の提供を開始した。重要なバグ修正とセキュリティアップデートが含まれている。",
+//     "url": "https://pc.watch.impress.co.jp/docs/news/1518695.html",
+//     "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1518/695/01.jpg",
+//     "publishedAt": "2023-07-25T02:31:00Z",
+//     "content": "AppleiOS 16.6iPadOS 16.6 \r\n (CVE-2023-38606)WebWebKit(CVE-2023-37450)iOS 15.7.1 \r\n Apple Neural Engine(CVE-2023-38136CVE-2023-38580)Find My(CVE-2023-32416)(CVE-2023-32734) \r\n Safari 16.6"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Appbank.net"
+//     },
+//     "author": "テクノロジー記事班",
+//     "title": "40代〝デジおじ〟の首の疲れを助けるMacBookスタンド兼スリーブ「Fleeve」がMakuakeに登場",
+//     "description": "「Fleeve（フリーブ）」はAppleの「MacBook」シリーズの端末を保護するスリーブ・ケース、そして角度調整機能付きのラップトップ・スタンドとして使える製品です。 40代、アラフォーの筆者から見て「シブいデザイン […]",
+//     "url": "https://www.appbank.net/2023/07/25/technology/2519205.php",
+//     "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/07/2023-Jly-makuake-nmaxn-Fleeve-MacBook-sleeve-00.jpg",
+//     "publishedAt": "2023-07-25T03:24:39Z",
+//     "content": "FleeveAppleMacBook\r\n40\r\n» FleeveMacBookMakuake\r\nFleeveMacBook by n max n\r\nFleeveMacBook\r\n/n max n\r\nMacBook\r\n<ul><li>1313M1/M2 MacBook AirMacBook Pro14MacBook Pro</li><li>1515MacBook AirMacBook Pro16M… [+118 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "DIE WELT"
+//     },
+//     "author": "Rixa Fürsen",
+//     "title": "Hitze im Mittelmeer, Bilanz der Weltwirtschaft und Festspiele in Bayreuth",
+//     "description": "Hitze und Trockenheit sorgen für heftige Waldbrände auf griechischen Inseln. WELT-TV-Reporter Steffen Schwarzkopf ist auf Rhodos und ordnet die Lage von vor Ort ein. In Brüssel sprechen die EU-Agrarminister über den Einsatz von Pestiziden, der internationale …",
+//     "url": "https://www.welt.de/podcasts/kick-off/article246554684/Podcast-Hitze-im-Mittelmeer-Weltwirtschaft-in-der-Krise-und-Festspiele-in-Bayreuth.html",
+//     "urlToImage": "https://img.welt.de/img/podcasts/kick-off/mobile245886658/0181355897-ci16x9-w1200/Kick-off-von-WELT-heute-mit-WELT-Autorin-Rixa-Fuersen.jpg",
+//     "publishedAt": "2023-07-25T03:00:43Z",
+//     "content": "Hier können Sie die aktuelle Folge von Kick-off hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts, Amazon Music oder direkt per RSS-Feed.\r\nUkraine-Krieg, Ampelregierung und… [+711 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "DIE WELT"
+//     },
+//     "author": "WELT",
+//     "title": "Antisemitismus unter Muslimen stärker verbreitet als im Rest der Bevölkerung",
+//     "description": "Eine große Mehrheit der Deutschen lehnt antisemitische Aussagen entschieden ab. Das hat eine Studie der Konrad-Adenauer-Stiftung herausgefunden. Unter Muslimen sind entsprechende Einstellungen jedoch weiter verbreitet als im Bevölkerungsdurchschnitt.",
+//     "url": "https://www.welt.de/politik/deutschland/article246560808/Antisemitismus-unter-Muslimen-staerker-verbreitet-als-im-Rest-der-Bevoelkerung.html",
+//     "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile246560834/5331357417-ci16x9-w1200/31875221.jpg",
+//     "publishedAt": "2023-07-25T04:42:54Z",
+//     "content": "Antisemitische Einstellungen sind unter Muslimen weiter verbreitet als im Rest der Bevölkerung. Zu diesem Ergebnis kommt eine Studie der CDU-nahen Konrad-Adenauer-Stiftung, die dem Evangelischen Pres… [+1615 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "DIE WELT"
+//     },
+//     "author": "WELT",
+//     "title": "Atomexperten entdecken Minen auf AKW-Gelände Saporischschja",
+//     "description": "Die Internationale Atomenergiebehörde hat bei Inspektionen auf dem Gelände des von russischen Truppen besetzten ukrainischen Atomkraftwerks Saporischschja Minen gesichtet. Dies verstoße gegen die Sicherheitsstandards. Mehr im Liveticker.",
+//     "url": "https://www.welt.de/politik/ausland/article246560700/Ukraine-News-Atombehoerde-entdeckt-Minen-auf-AKW-Gelaende-Saporischschja.html",
+//     "urlToImage": "https://img.welt.de/img/politik/ausland/mobile246560736/6161355357-ci16x9-w1200/Kernkraftwerk-Saporischschja.jpg",
+//     "publishedAt": "2023-07-25T04:01:05Z",
+//     "content": "Experten der Internationalen Atomenergiebehörde haben am Rand des Geländes des von russischen Truppen besetzten ukrainischen Atomkraftwerks Saporischschja Anti-Personen-Minen entdeckt. Bei einer Bege… [+5553 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "DIE WELT"
+//     },
+//     "author": "Sven Felix Kellerhoff",
+//     "title": "Wie das biblische Gomorrha – als Hamburg im Feuersturm verglühte",
+//     "description": "Codewort „Gomorrha“: Ab der Nacht vom 24. auf den 25. Juli 1943 flogen vor allem britische Bomber mehrere Luftangriffe auf Hamburg. Mehr als 30.000 Menschen starben, ganze Stadtteile brannten. Auch die psychischen Folgen waren verheerend – doch es war nur der…",
+//     "url": "https://www.welt.de/geschichte/article246544236/Bombenangriffe-Wie-das-biblische-Gomorrha-als-Hamburg-im-Feuersturm-vergluehte.html",
+//     "urlToImage": "https://img.welt.de/img/geschichte/mobile246544234/6631354727-ci16x9-w1200/World-War-II-Second-World-War-world-war-war-Third-Reich-NS-national-social.jpg",
+//     "publishedAt": "2023-07-25T05:17:38Z",
+//     "content": "Die Warnung kam zu spät. Am 22. Juli 1943 schrieb Professor Henry T. Tizard an Premierminister Winston Churchill. Sein Wort hatte, da er zu den wesentlichen Beratern der britischen Regierung zählte, … [+7699 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Forbes"
+//     },
+//     "author": "Michael Harley, Contributor, \n Michael Harley, Contributor\n https://www.forbes.com/sites/michaelharley/",
+//     "title": "Five Ways To Keep Your Vehicle From Being Stolen",
+//     "description": "More than one million vehicles were stolen last year. Most of the vehicle thefts would have been prevented had drivers followed five simple steps.",
+//     "url": "https://www.forbes.com/sites/michaelharley/2023/07/24/five-ways-to-keep-your-vehicle-from-being-stolen/",
+//     "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64bf2cb703db235fe2f1366b/0x0.jpg?format=jpg&width=1200",
+//     "publishedAt": "2023-07-25T02:04:24Z",
+//     "content": "The easiest way to prevent vehicle theft, even if you own a million-dollar Bugatti Veyron, is by ... [+] locking it!\r\n©2023 Schnell Auto, Inc.\r\nAccording to a recent study by the National Insurance C… [+3147 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "BBC News"
+//     },
+//     "author": "https://www.facebook.com/bbcnews",
+//     "title": "Spotify aumenta el precio de las suscripciones sin publicidad para millones de usuarios en todo el mundo",
+//     "description": "Los precios subirán en Argentina, Chile, Colombia, Costa Rica, Ecuador, España, Guatemala, México y Perú.",
+//     "url": "https://www.bbc.com/mundo/articles/c16en1184gyo",
+//     "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd5e/live/a5a6aee0-2a87-11ee-94aa-b93292f36713.jpg",
+//     "publishedAt": "2023-07-25T01:31:23Z",
+//     "content": "Fuente de la imagen, Getty Images\r\nPie de foto, Es el primer incremento en el servicio en una década. \r\nArticle information<ul><li>Author, Chloe Kim</li><li>Role, BBC News</li><li></li></ul>\r\nEl serv… [+2725 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Elladodelmal.com"
+//     },
+//     "author": "noreply@blogger.com (Chema Alonso)",
+//     "title": "IA Constitucional: Anthropic y su propuesta para crear LLMs que no sean \"dañinos\" (harmless)",
+//     "description": "Un robot no puede dañar a un ser humano ni, por inacción, permitir que un ser humano sufra daño. Las leyes de la robótica de  Isaac Asimov, en su mundo de ficción, establecen una especie de conducta moral, un código ético, para lograr una convivencia sostenib…",
+//     "url": "https://www.elladodelmal.com/2023/07/ia-constitucional-anthropic-y-su.html",
+//     "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgA8EFQY_vbJMHFmkbKsZpeGr6nbIKxgHdTPN1Ke1T_MZsYRX5IKyc9vCFGsOmP_nT0iep0ADASg4fombXoIX6xiTIK2ZdxEurtM2EK8xA7IEe5Bu4PtsrBYftahNXgXqUZV_3kfTCH0lCH7AQTF6395XthMWVjrHejwSNO75hfj9z9wKvpz67/w1200-h630-p-k-no-nu/cai_0.jpg",
+//     "publishedAt": "2023-07-25T04:01:00Z",
+//     "content": "Esto es lo que ha hecho la compañía Anthropic, rival de OpenAI fundada por antiguos miembros de ésta y con gran inversión de Google, para entrenar a su modelo de lenguaje Claude.\r\nEl problema de segu… [+2911 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Iphoneitalia.com"
+//     },
+//     "author": "Giuseppe Migliorino",
+//     "title": "iPhone 15, Apple ha risolto i problemi di produzione del display",
+//     "description": "A quanto pare, Apple ha risolto i problemi di produzione dei display per gli iPhone 15. \nLink all'articolo originale: iPhone 15, Apple ha risolto i problemi di produzione del display",
+//     "url": "https://www.iphoneitalia.com/812047/produzione-display-iphone-15-risolti",
+//     "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/05/iphone-15-pro-vetro-anteriore.jpg",
+//     "publishedAt": "2023-07-25T05:49:22Z",
+//     "content": "Apple ha iniziato ad aumentare la produzione di display per la gamma iPhone 15, con le spedizioni che dovrebbero essere superiori rispetto alla serie iPhone 14 nonostante i problemi delle ultime sett… [+1078 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Iphoneitalia.com"
+//     },
+//     "author": "Giuseppe Migliorino",
+//     "title": "Apple celebra il debutto di Lionel Messi su MLS Season Pass",
+//     "description": "Dal 21 luglio gli utenti possono guardare tutte le azioni di Messi e la Leagues Cup\nLink all'articolo originale: Apple celebra il debutto di Lionel Messi su MLS Season Pass",
+//     "url": "https://www.iphoneitalia.com/812042/messi-apple-tv-mls",
+//     "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/07/messi-apple-tv.jpg",
+//     "publishedAt": "2023-07-25T05:40:25Z",
+//     "content": "Apple TV+ ha un nuovo protagonista: Lionel Messi. Il giocatore argentino ha già esordito con un gol decisivo allo scadere.\r\nL’Inter Miami ha infatti dato il calcio d’inizio alla Leagues Cup affrontan… [+1963 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Geekpark.net"
+//     },
+//     "author": null,
+//     "title": "ChatGPT 之父的加密货币上线暴涨一倍；传蔚来将推 10 万元级低端车；微软推「披萨味」Xbox 手柄 | 极客早知道",
+//     "description": "消息称腾讯、抖音集团、淘天集团均计划调整职级体系\n腾讯、字节跳动旗下抖音集团、阿里巴巴旗下淘天集团均准备在今年对现行的职级体系、管理制度做出调整：\n腾讯将缩减干部层级，减少业务的管理角色，推动公司的组织层级更加扁平。抖音集团则在考虑调整已施行超过五年的「5 级 10 等」员工职级体系，但方案未定。\n淘天集团考虑增加基层员工职级（P 序列改为 14-28 级），简化晋升方式；还计划将 OKR 考核制度调整为 OKR 与 KPI 并行，以 KPI 为主的考核制度。此外，十人以上团队强制执行末尾淘汰。\n报道称，随着主营…",
+//     "url": "https://www.geekpark.net/news/322240",
+//     "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/38/f4/38f4537b43984565e70562f2496edede.png",
+//     "publishedAt": "2023-07-25T00:03:26Z",
+//     "content": "5 10 \r\nP 14-28 OKR OKR KPI KPI \r\n LatePost\r\nLG iPhone OLED \r\n7 24 The elec LG iPhone OLED \r\n LG \r\n iPhone 15 Pro Apple Watch \r\n 27.98 71.8 \r\n7 24 Insider 2022 27.98 200.49 71.8 515.95 \r\n 2022 71.8 51… [+461 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Tinhte.vn"
+//     },
+//     "author": "no-reply@tinhte.vn (Hassler), Hassler",
+//     "title": "Đến lượt Spotify tăng giá thuê bao Premium",
+//     "description": "Vậy là đến lượt Spotify ra thông báo sẽ tăng giá thuê bao gói Premium sau khi 1 loạt những nền tảng khác như Youtube Music hay Apple Music gần như đồng loạt tăng giá gần đây. Đây là lần tăng giá đầu tiên của Spotify sau hơn 1 thập kỷ xuất hiện trên…",
+//     "url": "https://tinhte.vn/thread/den-luot-spotify-tang-gia-thue-bao-premium.3695341/",
+//     "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/07/6506114_Spotify-premium.jpg",
+//     "publishedAt": "2023-07-25T01:03:18Z",
+//     "content": "Vy là n lt Spotify ra thông báo s tng giá thuê bao gói Premium sau khi 1 lot nhng nn tng khác nh Youtube Music hay Apple Music gn nh ng lot tng giá gn ây. ây là ln tng giá u tiên ca Spotify sau hn 1 … [+1027 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Netafull.net"
+//     },
+//     "author": "コグレマサト",
+//     "title": "Apple、サプライヤーに対して「ベゼルレス」なiPhoneディスプレイの開発を要請か",
+//     "description": "9to5Macによれば、AppleがSamsungとLGに対して、iPhoneのフロントベゼルを取り除く「ベゼルレス」なOLEDを開発するよう要請しているとのことです。Report: Apple pushing supp...\n投稿 Apple、サプライヤーに対して「ベゼルレス」なiPhoneディスプレイの開発を要請か は ネタフル に最初に表示されました。",
+//     "url": "https://netafull.net/iphone/0134549.html",
+//     "urlToImage": "https://netafull.net/wp-content/uploads/2022/03/apple-logo.jpg",
+//     "publishedAt": "2023-07-25T04:30:00Z",
+//     "content": "9to5MacAppleSamsungLGiPhoneOLEDReport: Apple pushing suppliers to develop truly bezel-less iPhone displaysThe Elec\r\nWhile iPhone bezels have gotten significantly smaller over the last several years, … [+282 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Skift"
+//     },
+//     "author": "Skift",
+//     "title": "Skift India Report: Outbound Travel Expected to Reach $44.7 Billion by 2032",
+//     "description": "It isn’t just about the number of people traveling, but also a series of bold investments India is making in infrastructure and expansion of its aviation sector. And the global travel industry must take note if it wants to capture a share of the market. -Amri…",
+//     "url": "https://skift.com/2023/07/24/skift-india-report-outbound-travel-expected-to-reach-44-7-billion-by-2032/",
+//     "urlToImage": "https://skift.com/wp-content/uploads/2023/07/AdobeStock_187318980-scaled-e1588934678752.jpg",
+//     "publishedAt": "2023-07-25T03:00:00Z",
+//     "content": "Indias outbound tourism is expected to reach $44.7 billion by 2032, according to a report titled Unlock the Potential: A Look into Outbound Tourismby Nangia Andersen, in association with the Federati… [+8220 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Tinhte.vn"
+//     },
+//     "author": "no-reply@tinhte.vn (thanhtung6868), thanhtung6868",
+//     "title": "Bán tải RAM 1500 Rebel ra mắt tại Việt Nam: HEMI V8 5.7L 395HP, giá hơn 5,1 tỷ Đồng",
+//     "description": "Jeep Vietnam Automobiles vừa chính thức ra mắt mẫu bán tải RAM 1500 Rebel tại thị trường Việt Nam với mức giá 5,288 tỷ Đồng. RAM 1500 là dòng xe bán tải cỡ lớn, hội tụ yếu tố về sức mạnh động cơ đi kèm với tiện ích công nghệ phục vụ người lái ở bên…",
+//     "url": "https://tinhte.vn/thread/ban-tai-ram-1500-rebel-ra-mat-tai-viet-nam-hemi-v8-5-7l-395hp-gia-hon-5-1-ty-dong.3695196/",
+//     "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/07/6505686_RAM-1500-Rebel-ra-mat-viet-nam.jpg",
+//     "publishedAt": "2023-07-25T02:06:14Z",
+//     "content": "Jeep Vietnam Automobiles va chính thc ra mt mu bán tiRAM 1500 Rebel ti th trng Vit Nam vi mc giá 5,288 t ng. RAM 1500 là dòng xe bán ti c ln, hi t yu t v sc mnh ng c i kèm vi tin ích công ngh phc v n… [+415 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Spidersweb.pl"
+//     },
+//     "author": "kusmierekma@gmail.com (Malwina Kuśmierek)",
+//     "title": "Vision Pro będą iPadem na głowę. Apple ma problem z aplikacjami na swoje gogle",
+//     "description": "Brzmi kuriozalnie, jednakże tak właśnie może skończyć nowy headset od Apple. Urządzenie nie jest atrakcyjne dla twórców aplikacji.",
+//     "url": "https://spidersweb.pl/2023/07/vision-pro-aplikacje.html",
+//     "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2023/07/vision-pro-aplikacje.jpg",
+//     "publishedAt": "2023-07-25T04:35:00Z",
+//     "content": "Podczas prezentacji headsetu Apple Vision Pro podczas konferencji WWDC 2023, koncern z Cupertino dosownie czarowa widzów moliwociami urzdzenia. Bez klawiatury, bez myszki, zabezpieczone skanem tczówk… [+482 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Macitynet.it"
+//     },
+//     "author": "Mauro Notarianni",
+//     "title": "macOS Ventura 13.5 risolve bug con dischi SATA sui Mac Pro",
+//     "description": "L'update a macOS Ventura 13.5 risolve un bug con i dischi SATA (collegabili internamente) che potevano disconnettersi improvvisamente sui Mac Pro 2023 quando il computer si riattivava dallo stop.\n- su macitynet.it macOS Ventura 13.5 risolve bug con dischi SAT…",
+//     "url": "https://www.macitynet.it/?p=1240140",
+//     "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/MacPro2023-.jpg",
+//     "publishedAt": "2023-07-25T05:29:43Z",
+//     "content": "L’aggiornamento a macOS Ventura 13.5 risolve un bug con i dischi SATA (collegabili internamente) che potevano disconnettersi improvvisamente sui Mac Pro 2023 quando il computer si riattivava dallo st… [+1285 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "bbc-news",
+//     "name": "BBC News"
+//     },
+//     "author": "https://www.facebook.com/bbcnews",
+//     "title": "Is Musk right to ditch the Twitter logo?",
+//     "description": "Rebrands can pay off - but it's a risky move.",
+//     "url": "https://www.bbc.co.uk/news/business-66296468",
+//     "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A22/production/_130507172_whatsubject.jpg",
+//     "publishedAt": "2023-07-25T01:43:30Z",
+//     "content": "When Jean-Pierre Dube saw the news that billionaire Elon Musk was scrapping Twitter's blue bird logo in favour of an Art Deco-style black and white X, the marketing professor thought it was a joke.\r\n… [+4211 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Impress.co.jp"
+//     },
+//     "author": null,
+//     "title": "Apple、「iOS 16.6」「iPadOS 16.6」を公開 ～すべてのユーザーに適用が推奨／ゼロデイ2件を含む25件の脆弱性に対処",
+//     "description": "米Appleは7月24日（現地時間）、「iOS 16.6」および「iPadOS 16.6」を公開した。重要なバグ修正とセキュリティアップデートが含まれており、すべてのユーザーに適用が推奨されている。",
+//     "url": "https://forest.watch.impress.co.jp/docs/news/1518641.html",
+//     "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1518/641/image_top.png",
+//     "publishedAt": "2023-07-25T00:43:57Z",
+//     "content": "Apple724iOS 16.6iPadOS 16.6 \r\n CVE25Apple Neural EngineWebKit \r\n CVE-2023-38606CVE-2023-37450 \r\n CVE-2023-38606iOS 15.7.1iOS \r\n CVE-2023-37450WebKitiOS 16.6 (c)\r\n iOS 16.6iPadOS 16.6"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Impress.co.jp"
+//     },
+//     "author": null,
+//     "title": "Apple、「macOS Ventura 13.5」などをリリース ～悪用を確認済みの脆弱性を修正／すべてのユーザーに適用が推奨",
+//     "description": "米Appleは7月24日（現地時間）、「macOS Ventura 13.5」などをリリースした。不具合と脆弱性を修正したセキュリティアップデートで、すべてのユーザーに適用が推奨されている。",
+//     "url": "https://forest.watch.impress.co.jp/docs/news/1518747.html",
+//     "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1518/747/macos_ventura.jpg",
+//     "publishedAt": "2023-07-25T03:28:46Z",
+//     "content": "Apple724macOS Ventura 13.5 \r\n CVE42Apple Neural EngineWebKitcurl \r\n CVE-2023-38606CVE-2023-37450 \r\n CVE-2023-38606iOS 15.7.1iOSmacOS \r\n CVE-2023-37450WebKitiOS 16.6 (c)\r\n macOS Ventura \r\n<ul><li>iMac… [+219 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Impress.co.jp"
+//     },
+//     "author": null,
+//     "title": "Apple、「iOS 15.7.8」「iPadOS 15.7.8」をリリース ～旧OSでもゼロデイ脆弱性に対処／「iOS 15.7.8」ではマスクを着用したまま「Face ID」を使用できるオプションも",
+//     "description": "米Appleは7月24日（現地時間）、「iOS 15.7.8」および「iPadOS 15.7.8」を公開した。不具合と脆弱性を修正したセキュリティアップデートで、すべてのユーザーに適用が推奨されている。",
+//     "url": "https://forest.watch.impress.co.jp/docs/news/1518666.html",
+//     "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1518/666/ios15.jpg",
+//     "publishedAt": "2023-07-25T01:38:46Z",
+//     "content": "Apple724iOS 15.7.8iPadOS 15.7.8 \r\n iOS 15.7.8 \r\n<ul><li>Face IDiPhone 12Face IDApple PaySafariAppFace ID</li><li></li><li>FaceTimeSharePlayApp</li><li>SiriiPhone XSiPhone XRiPhone 11Siri</li><li>EUCO… [+325 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Impress.co.jp"
+//     },
+//     "author": null,
+//     "title": "突如「X」になってしまった「Twitter」、青い鳥に戻す拡張機能がさっそく登場／「Google Chrome」ならインストールするだけ、「FireFox」版もあり【やじうまの杜】",
+//     "description": "「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+//     "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1518638.html",
+//     "urlToImage": "https://forest.watch.impress.co.jp/img/wf/list/1518/638/image_top.png",
+//     "publishedAt": "2023-07-25T00:10:09Z",
+//     "content": "There was essentially no brief, other than we want a new bird, and it should be as good as the Apple and Nike logo. Twitter had made some sort of flying goose - but Jack wanted something simplerpic.t… [+67 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ubuntu.com"
+//     },
+//     "author": "Ed Jones (Ed Jones)",
+//     "title": "Why and how to use Rust on Ubuntu",
+//     "description": "Rust has been the language most loved by developers for the last 8 years and it is seeing increased adoption by software companies of all sizes. However, its many high-level rules and abstractions create a steep initial learning curve which can leave the impr…",
+//     "url": "https://ubuntu.com/blog/why-and-how-to-use-rust-on-ubuntu",
+//     "urlToImage": "https://ubuntu.com/wp-content/uploads/bfa9/ubuntu-loves-ferris-pngcrushed.png",
+//     "publishedAt": "2023-07-25T04:30:03Z",
+//     "content": "Rust has been the language most loved by developers for the last 8 years and it is seeing increased adoption by software companies of all sizes. However, its many high-level rules and abstractions cr… [+7230 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "AdExchanger"
+//     },
+//     "author": "AdExchanger",
+//     "title": "Now That’s What I Call SMB Service; Can Cirque du Soleil Be A Gen Z Thing, Too?",
+//     "description": "Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here. Follow Your Intuition, I Guess Intuit, which owns Mailchimp and accounting software like TurboTax and QuickBooks, is launching\nThe post Now That’s What I Call SMB Service; Can Cirqu…",
+//     "url": "http://www.adexchanger.com/ad-exchange-news/tuesday-25072023/",
+//     "urlToImage": "https://www.adexchanger.com/wp-content/uploads/2022/11/musk.zoo_.cartoon-scaled.jpg",
+//     "publishedAt": "2023-07-25T04:03:31Z",
+//     "content": "Heres todays AdExchanger.com news round-up Want it by email? Sign up here.\r\nFollow Your Intuition, I Guess\r\nIntuit, which owns Mailchimp and accounting software like TurboTax and QuickBooks, is launc… [+4117 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "MobileSyrup"
+//     },
+//     "author": "Dean Daley",
+//     "title": "Here’s what’s new on BritBox this August 2023",
+//     "description": "In August, BBC Studios and ITV revealed what content is coming to BritBox, a British programming-focused streaming service. BritBox, which costs $9.99/month (or $99.99 per year), offers access to series like Doctor Who, Emmerdale and Five by Five. In August, …",
+//     "url": "https://mobilesyrup.com/2023/07/24/new-britbox-august-2023/",
+//     "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2023/07/granite-harbour-britbox-scaled.jpg",
+//     "publishedAt": "2023-07-25T01:09:35Z",
+//     "content": "In August, BBC Studios and ITV revealed what content is coming to BritBox, a British programming-focused streaming service.\r\nBritBox, which costs $9.99/month (or $99.99 per year), offers access to se… [+700 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Hvg.hu"
+//     },
+//     "author": "hvg@hvg.hu",
+//     "title": "Minek ide indexkar? Meghajtottuk a teljesen új Mercedes E-osztályt",
+//     "description": "Klasszikus vonalvezetés, modern hajtásláncok és high-tech tűzijáték a továbbra is a világ egyik legjobb utazó autójának mondható új E-Klasse arzenáljában, mely utolsó alkalommal épül belsőégésű motorokra. És akár teljesen magától is képes indexelve sávot vált…",
+//     "url": "https://hvg.hu/cegauto/20230725_minek_ide_indexkar_meghajtottuk_a_teljesen_uj_mercedes_eosztalyt",
+//     "urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/cf7e3d4e-304e-4dba-8b1d-d1750b17c6da.jpg",
+//     "publishedAt": "2023-07-25T04:41:00Z",
+//     "content": "Klasszikus vonalvezetés, modern hajtásláncok és high-tech tzijáték a továbbra is a világ egyik legjobb utazó autójának mondható új E-Klasse arzenáljában, mely utolsó alkalommal épül belségés motorokr… [+9563 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Vnexpress.net"
+//     },
+//     "author": "VnExpress",
+//     "title": "Messi làm đội trưởng Inter Miami",
+//     "description": "Mỹ- HLV Gerardo Martino chọn nhà vô địch World Cup 2022 Lionel Messi làm đội trưởng mới của Inter Miami.",
+//     "url": "https://vnexpress.net/messi-lam-doi-truong-inter-miami-4633631.html",
+//     "urlToImage": "https://vcdn1-thethao.vnecdn.net/2023/07/25/mia-inter-miami-cruz-azul-d-7-9308-1561-1690259230.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bBuGKZeMq-ySZ4BE_NEXxw",
+//     "publishedAt": "2023-07-25T04:28:09Z",
+//     "content": "MHLV Gerardo Martino chn nhà vô ch World Cup 2022 Lionel Messi làm i trng mi ca Inter Miami.Ngày 21/7, Messi ra mt Inter Miami khi vào thay ngi t phút 54 trn gp Cruz Azul 2-1 ti Leagues Cup. Ngay khi… [+1830 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Vnexpress.net"
+//     },
+//     "author": "VnExpress",
+//     "title": "Người dùng VIB có thể thanh toán qua khung chat mạng xã hội",
+//     "description": "Tính năng chuyển tiền nhanh qua khung chat mạng xã hội của MyVIB Social Keyboard giúp người dùng tiết kiệm thời gian, hạn chế sai sót khi chuyển tiền.",
+//     "url": "https://vnexpress.net/nguoi-dung-vib-co-the-thanh-toan-qua-khung-chat-mang-xa-hoi-4633398.html",
+//     "urlToImage": "https://vcdn1-kinhdoanh.vnecdn.net/2023/07/24/social-payment-anh-2-jpeg-2068-6572-6592-1690196966.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bs8X5w3ERlNBU0N5Uy9H8Q",
+//     "publishedAt": "2023-07-25T04:28:29Z",
+//     "content": "Tính nng chuyn tin nhanh qua khung chat mng xã hi ca MyVIB Social Keyboard giúp ngi dùng tit kim thi gian, hn ch sai sót khi chuyn tin.i din VIB cho bit vic ra mt MyVIB Social Keyboar là bc ngoc ánh … [+2044 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "independent",
+//     "name": "Independent"
+//     },
+//     "author": "Peony Hirwani",
+//     "title": "‘A call to arms’: Dwayne Johnson donates ‘record’ seven-figure sum to SAG-AFTRA as Hollywood strike continues",
+//     "description": "His donation will likely help 7,000-10,000 members through the union’s Emergency Financial Assistance Program",
+//     "url": "https://www.independent.co.uk/arts-entertainment/films/news/dwayne-johnson-sag-aftra-donation-hollywood-strike-b2381219.html",
+//     "urlToImage": "https://static.independent.co.uk/2022/10/25/12/newFile-1.jpg?quality=75&width=1200&auto=webp",
+//     "publishedAt": "2023-07-25T05:43:33Z",
+//     "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nDwayne Johnson has reportedly donated a seven-figure amo… [+2482 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "independent",
+//     "name": "Independent"
+//     },
+//     "author": "Tom Murray",
+//     "title": "Pete Davidson hit with 50 hours of community service after ‘cutting deal’ with car crash prosecutors",
+//     "description": "Comedian and actor will avoid prosecution following reckless driving charges",
+//     "url": "https://www.independent.co.uk/arts-entertainment/tv/news/pete-davidson-car-crash-arrest-beverly-hills-b2381204.html",
+//     "urlToImage": "https://static.independent.co.uk/2023/05/07/10/newFile.jpg?quality=75&width=1200&auto=webp",
+//     "publishedAt": "2023-07-25T01:16:31Z",
+//     "content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nPete Davidson has been placed on an 18-month diversion programme af… [+3056 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "independent",
+//     "name": "Independent"
+//     },
+//     "author": "Vishwam Sankaran",
+//     "title": "Spotify premium subscribers in UK to now pay £1 extra per month",
+//     "description": "‘These updates will help us continue to deliver value to fans and artists on our platform’",
+//     "url": "https://www.independent.co.uk/tech/spotify-premium-subscription-price-increase-b2381252.html",
+//     "urlToImage": "https://static.independent.co.uk/2022/02/13/12/newFile.jpg?quality=75&width=1200&auto=webp",
+//     "publishedAt": "2023-07-25T05:50:22Z",
+//     "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nSpotify has increased the subscription prices of its… [+1908 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "BBC News"
+//     },
+//     "author": "Natalie Sherman - Business reporter, New York",
+//     "title": "Is Musk right to ditch the Twitter logo?",
+//     "description": "Rebrands can pay off - but it's a risky move.",
+//     "url": "https://www.bbc.com/news/business-66296468?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+//     "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/b4d64df585cc3cebeccd6867767aa62d",
+//     "publishedAt": "2023-07-25T01:43:31Z",
+//     "content": "Elon Musk said Twitter would be known as X\r\nWhen Jean-Pierre Dube saw the news that billionaire Elon Musk was scrapping Twitter's blue bird logo in favour of an Art Deco-style black and white X, the … [+4186 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Isopixel.net"
+//     },
+//     "author": "Redacción Isopixel",
+//     "title": "Sony presenta los nuevos audífonos WF-1000XM5 con la mejor cancelación de ruido",
+//     "description": "Sony Electronics Inc. anunció los audífonos WF-1000XM5. El nuevo modelo de la premiada serie 1000X ofrece el Mejor Noise Cancelling, reduciendo el ruido externo desde frecuencias bajas hasta altas, para que te concentres en tu música. los WF-1000XM5 elevan lo…",
+//     "url": "https://isopixel.net/2023/07/24/sony-presenta-los-nuevos-audifonos-wf-1000xm5-con-la-mejor-cancelacion-de-ruido/",
+//     "urlToImage": "https://isopixel.net/wp-content/uploads/2023/07/WF-1000XM5_EU4_WearingComfort_B_8000-Mid.jpg",
+//     "publishedAt": "2023-07-25T02:25:05Z",
+//     "content": "Sony Electronics Inc. anunció los audífonos WF-1000XM5. El nuevo modelo de la premiada serie 1000X ofrece el Mejor Noise Cancelling, reduciendo el ruido externo desde frecuencias bajas hasta altas, p… [+6956 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "usa-today",
+//     "name": "USA Today"
+//     },
+//     "author": "Cardinals Wire",
+//     "title": "2nd-round pick BJ Ojulari finally signs rookie deal",
+//     "description": "Ojulari's signing comes a day before training camp and gives the Cardinals a fully signed 2023 draft class.",
+//     "url": "https://cardswire.usatoday.com/2023/07/24/2nd-round-pick-bj-ojulari-finally-signs-rookie-deal/",
+//     "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XIDADtk1k1lUq0nwH_QLlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDM-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/fb50e12ee6e91fa5ef6e3e23146fec99",
+//     "publishedAt": "2023-07-25T00:33:28Z",
+//     "content": "The Arizona Cardinals finally have all their 2023 draft picks under contract. The one previously unsigned player, linebacker BJ Ojulari, has signed his rookie deal, the team announced Monday.\r\nAs wit… [+1216 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "usa-today",
+//     "name": "USA Today"
+//     },
+//     "author": "Cardinals Wire",
+//     "title": "Cardinals work out former Chiefs RB Damien Williams",
+//     "description": "The Cardinals could use a veteran running back and brought one in on Monday before the start of training camp.",
+//     "url": "https://cardswire.usatoday.com/2023/07/24/cardinals-work-out-former-chiefs-rb-damien-williams/",
+//     "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pMGIBxpCUYezWxceSfRm2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/70a72fc1d2165f5077e33020a9b5c1b3",
+//     "publishedAt": "2023-07-25T00:56:40Z",
+//     "content": "The Arizona Cardinals will open training camp on Tuesday and might have a new running back.\r\nAccording to NFL Networks Tom Pelissero, the Cardinals brought in former Kansas City Chiefs running back D… [+1201 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Dgtle.com"
+//     },
+//     "author": "飞越彩虹",
+//     "title": "苹果 iOS 16.6 正式版发布",
+//     "description": "苹果今日向 iPhone 用户推送了 iOS 16.6 更新（内部版本号：20G75），本次更新距离上次发布隔了 32 天。此次更新基本没有什么功能更新，主要是修复了 16 个漏洞。这 16 个已修复的缺陷涵盖内核、Find My、WebKit 和 Apple Neural Engine 等类别。苹果表示，其中两个可能已遭到积极利用。由于 iOS 17 即将上线，预计 iOS 16 后续不会带来任何面向用户的新功能。值得一提的是，该版本可能是 iOS 16 的最后的更新之一，后续将会转向以安全为重点的更新。此外，…",
+//     "url": "https://www.dgtle.com/news-1550858-14.html",
+//     "urlToImage": null,
+//     "publishedAt": "2023-07-25T03:11:59Z",
+//     "content": "iPhone iOS 16.6 20G75 32 \r\n 16 16 Find MyWebKit Apple Neural Engine \r\n iOS 17 iOS 16 iOS 16 \r\n iOS 17  iPhone XiPhone 8 iPhone 8 Plus iOS 16 \r\n iOS 16.6 RC \r\niOS &amp; iPadOS 16.4 SDK iOS &amp; iPadO… [+179 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "ifun.de › Apple-News seit 2001"
+//     },
+//     "author": "Nicolas",
+//     "title": "Vision Pro: Apple verteilt Entwickler-Kits – Netflix will keins",
+//     "description": "Gleichzeitig mit der Ausgabe von iOS 16.6 und macOS Ventura 13.5 hat Apple am Montagabend auch über Neuerungen in Sachen Apple Vision Pro informiert. Im Entwickler-Portal Cupertinos können sich interessierte Programmierer jetzt nicht nur um die Teilnahme an e…",
+//     "url": "https://www.ifun.de/vision-pro-apple-verteilt-entwickler-kits-netflix-will-keins-214779/",
+//     "urlToImage": "https://images.ifun.de/wp-content/uploads/2023/07/apple-vision-pro-dev-kit.jpg",
+//     "publishedAt": "2023-07-25T05:58:51Z",
+//     "content": "Gleichzeitig mit der Ausgabe von iOS 16.6 und macOS Ventura 13.5 hat Apple am Montagabend auch über Neuerungen in Sachen Apple Vision Pro informiert. Im Entwickler-Portal Cupertinos können sich inter… [+1842 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "ifun.de › Apple-News seit 2001"
+//     },
+//     "author": "Nicolas",
+//     "title": "Neues Revodock erhältlich: Unter macOS mit Einschränkungen",
+//     "description": "Der Zubehör-Anbieter Ugreen hat sein Portfolio an USB-C-Hubs um ein neues 11-in-1-Modell erweitert, das das Lineup der vergleichsweise teuren Revodocks ergänzt und die Ausgabe einer Display-Auflösung von bis zu 8K bei einer Bildwiederholrate von 30 Hz bewirbt…",
+//     "url": "https://www.ifun.de/neues-revodock-erhaeltlich-unter-macos-mit-einschraenkungen-214770/",
+//     "urlToImage": "https://images.ifun.de/wp-content/uploads/2023/07/revodock-feature.jpg",
+//     "publishedAt": "2023-07-25T04:52:32Z",
+//     "content": "Der Zubehör-Anbieter Ugreen hat sein Portfolio an USB-C-Hubs um ein neues 11-in-1-Modell erweitert, das das Lineup der vergleichsweise teuren Revodocks ergänzt und die Ausgabe einer Display-Auflösung… [+1638 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Technews.tw"
+//     },
+//     "author": "MoneyDJ",
+//     "title": "蘋果 iPhone 15 傳今年生產 8,500 萬支，擬調漲「Pro」售價",
+//     "description": "蘋果（Apple）預計會在今年 9 月推出新款智慧手機產品「iPhone 15」系列機種（iPhone 15、iPhone 15 Plus、iPhone 15 Pro、iPhone 15 Pro Max），而據外媒指出，「iPhone 15」今年產量目標為8,500萬支，產量將幾乎同於去年的「iPh...",
+//     "url": "https://technews.tw/2023/07/25/iphone-15-pro-may-adjust-price/",
+//     "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/02/09160629/shutterstock_1052277353-e1644397137940.jpg",
+//     "publishedAt": "2023-07-25T00:26:45Z",
+//     "content": "Apple 9 iPhone 15iPhone 15iPhone 15 PlusiPhone 15 ProiPhone 15 Pro MaxiPhone 158,500iPhone 14Pro\r\n248,500iPhone 15iPhone 14iPhone\r\niPhone 152022iPhone 14Pro\r\n240.41%192.7348%\r\nMoneyDJ shutterstock"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Technews.tw"
+//     },
+//     "author": "TechNews",
+//     "title": "在全球建立 ESG 永續標準，鄧白氏用數據力幫企業打造韌性供應鏈",
+//     "description": "從 2018 年美中貿易大戰開始，加上延燒 3 年的疫情影響下，讓供應鏈韌性議題備受重視。而隨著溫室效應日益嚴重，在 2021 年聯合國氣候變遷大會（COP26）確認全球落實 2050 淨零排放目標後，也讓 ESG 成為各界非常重視的工作。臺灣高科技產業在全球供應鏈體系中扮演關鍵角色，更是支撐國家經...",
+//     "url": "https://technews.tw/2023/07/25/the-dun-bradstreet-corporation-establishing-esg-sustainability-standards-globally/",
+//     "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/07/21183711/D-12.jpg",
+//     "publishedAt": "2023-07-25T02:20:01Z",
+//     "content": "2018 3 2021 COP26 2050 ESG \r\n 5.2 ESG \r\nESG \r\n 500 FDAApple \r\nESG Fortune Global 500 90% D-U-N-S RegisteredFDAD-U-N-S NumberApple App iOS Apple \r\n 500 FDA 240 \r\n  ESGSource\r\nESG D&amp;B ESG Registere… [+300 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Index.hu"
+//     },
+//     "author": "Molnár Kamilla",
+//     "title": "Sokba kerül a minőség, drasztikus lépésre szánta el magát a Spotify",
+//     "description": "Sokba kerül a minőség, drasztikus lépésre szánta el magát a Spotify - A zenei streamingszolgáltató is beállt a sorba.",
+//     "url": "https://index.hu/techtud/2023/07/25/spotify-aremelkedes-streaming-daniel-ek/",
+//     "urlToImage": "https://kep.cdn.index.hu/1/0/5005/50053/500534/50053409_3815929_094df42d0ada7680bada976ce499f11c_wm.jpg",
+//     "publishedAt": "2023-07-25T04:45:00Z",
+//     "content": "A Spotify hivatalosan hétfn jelentette be, hogy megemeli árait prémium-elfizeti számára. Így az új tarifák megegyeznek majd vetélytársaiéval, vagyis az Apple és az Amazon Musickal írja a BBC.\r\nA váll… [+1395 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "HipHopDX"
+//     },
+//     "author": "Marisa Mendez",
+//     "title": "Nicki Minaj & Ice Spice's 'Barbie World' Gets Huge Boost From Movie Release",
+//     "description": "Nicki Minaj and Ice Spice's \"Barbie World\" single was already a hit, but it just got even bigger following the film's record-breaking theatrical release.",
+//     "url": "https://hiphopdx.com/news/nicki-minaj-ice-spice-barbie-world-boost-movie-release",
+//     "urlToImage": "https://static.hiphopdx.com/2023/07/nicki-minaj-and-ice-spice-barbie-world-gets-huge-boost-from-movie-release-1200x675.jpg",
+//     "publishedAt": "2023-07-25T04:30:20Z",
+//     "content": "Nicki Minaj and Ice Spices Barbie World smash hit just got even bigger after the films record-breaking release in theaters.\r\nOn Monday (July 24), TMZ revealed the song was streamed so much over the w… [+2144 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Moneycontrol"
+//     },
+//     "author": "Reuters",
+//     "title": "Apple faces $1 billion UK lawsuit by apps developers over app store fees",
+//     "description": "Apple#39;s services business, which includes the App Store, has seen revenues grow at a rapid pace in the last few years and now hovers around $20 billion per quarter.",
+//     "url": "https://www.moneycontrol.com/news/world/apple-faces-1-billion-uk-lawsuit-by-apps-developers-over-app-store-fees-11021551.html",
+//     "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/06/Collage-Maker-04-Jun-2023-08-40-AM-3206-770x433.jpg",
+//     "publishedAt": "2023-07-25T00:51:14Z",
+//     "content": "Apple on Tuesday found itself the target of a 785-million-pound ($1 billion) class action lawsuit brought by more than 1,500 apps developers in the UK over its App Store fees.\r\nApple's services busin… [+1156 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ixbt.com"
+//     },
+//     "author": "jin@ixbt.com (Jin)",
+//     "title": "Светофоры мельчают: в Москве начали устанавливать уменьшенные светофоры",
+//     "description": "В Москве начали устанавливать светофоров уменьшенного типа, о чем сообщили в пресс-службе департамента транспорта и развития дорожно-транспортной инфраструктуры Москвы со ссылкой на его главу Максима Ликсутова. Такие светофоры появятся на маленьких улицах в ц…",
+//     "url": "https://www.ixbt.com/news/2023/07/25/svetofory-melchajut-v-moskve-nachali-ustanavlivat-umenshennye-svetofory.html",
+//     "urlToImage": "https://www.ixbt.com/img/n1/news/2023/6/2/photo_2023-07-23_15-02-46_large.jpg",
+//     "publishedAt": "2023-07-25T04:54:00Z",
+//     "content": ", - - .\r\n , 60 /. , , . 200 300 .\r\n , , . . , . , , .\r\n— — 2- , .\r\n<ul><li> : : 2</li><li> 07:453. </li><li> 07:35MacBook Pro Apple M3 Pro M3 Max 2024, Mac mini Apple M3 . Mac M3 </li><li> 07:291 App… [+745 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Erickimphotography.com"
+//     },
+//     "author": "ERIC KIM",
+//     "title": "Creative Monopoly",
+//     "description": "Are monopolies a bad thing? Perhaps a “monopoly” is a good thing! Be the best, so dominant, 10000x beyond everyone else. Note Tesla and electric cars and supercharging stations, Apple and the iPhone, ERIC KIM and street photography etc.",
+//     "url": "https://erickimphotography.com/blog/2023/07/24/creative-monopoly/",
+//     "urlToImage": null,
+//     "publishedAt": "2023-07-25T01:48:55Z",
+//     "content": "Are monopolies a bad thing?\r\nPerhaps a monopoly is a good thing!\r\nBe the best, so dominant, 10000x beyond everyone else.\r\nNote Tesla and electric cars and supercharging stations, Apple and the iPhone… [+37 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Smzdm.com"
+//     },
+//     "author": null,
+//     "title": "Apple 苹果 iPhone14 Pro 5G智能手机 256GB 7699元（需用券）",
+//     "description": "Apple 苹果 iPhone14 Pro 5G智能手机 256GB 7699元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+//     "url": "https://www.smzdm.com/p/86141854/",
+//     "urlToImage": "https://qny.smzdm.com/202209/08/631951bb98a932280.jpg_d250.jpg",
+//     "publishedAt": "2023-07-25T01:06:47Z",
+//     "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Smzdm.com"
+//     },
+//     "author": null,
+//     "title": "Apple 苹果 Mac Mini 台式电脑主机（M2、8GB、256GB） 3004元",
+//     "description": "Apple 苹果 Mac Mini 台式电脑主机（M2、8GB、256GB） 3004元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+//     "url": "https://www.smzdm.com/p/86163306/",
+//     "urlToImage": "https://qny.smzdm.com/202307/25/64bf40453048a4127.jpg_d250.jpg",
+//     "publishedAt": "2023-07-25T03:41:58Z",
+//     "content": "·\r\n Mac mini M2 M2 Pro M2 M2 4 4 10 16 100GB/s H.264HEVCProRes ProRes RAW ProRes M2 Mac mini ProRes Final Cut ProM2 30 fps 2 8K ProRes 422 30 fps 12 4K ProRes 422 \r\n M2 Pro M2 Pro 10 6 4 19 M2 200GB … [+230 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Smzdm.com"
+//     },
+//     "author": null,
+//     "title": "Apple 苹果 iPhone 14 Pro（A2892）双卡双待手机 金色 256G 7199元",
+//     "description": "Apple 苹果 iPhone 14 Pro（A2892）双卡双待手机 金色 256G 7199元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+//     "url": "https://www.smzdm.com/p/86164849/",
+//     "urlToImage": "https://qny.smzdm.com/202307/25/64bf4480b90891121.jpg_d250.jpg",
+//     "publishedAt": "2023-07-25T04:22:02Z",
+//     "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "SoraNews24"
+//     },
+//     "author": "SoraNews24",
+//     "title": "This cheap Japanese beef bowl fast food chain now has beautiful, delicious frozen desserts",
+//     "description": "Sukiya’s shaved ice shows they can do more than gyudon. Japanese restaurant chain Sukiya’s main focus is beef bowls, or gyudon, as they’re called in Japanese. But while its beef bowls are tasty at any time of year, Sukiya realizes that we could all use some e…",
+//     "url": "https://soranews24.com/2023/07/25/this-cheap-japanese-beef-bowl-fast-food-chain-now-has-beautiful-delicious-frozen-desserts/",
+//     "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2023/07/SK-7.jpg?w=580&h=305&crop=1",
+//     "publishedAt": "2023-07-25T05:00:08Z",
+//     "content": "Sukiyas shaved ice shows they can do more than gyudon.\r\nJapanese restaurant chain Sukiyas main focus is beef bowls, or gyudon, as theyre called in Japanese. But while its beef bowls are tasty at any … [+3577 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Maketecheasier.com"
+//     },
+//     "author": "Mehvish Mushtaq",
+//     "title": "10 Best Ways to Fix Unable to Install Apps Issue on iPhone",
+//     "description": "Are you wondering why your iPhone is not installing apps? There could be several reasons for this bug including a bad internet connection, or an issue with your Apple ID. Whatever the reason, here are the best solutions to fix the problem of being unable to i…",
+//     "url": "https://www.maketecheasier.com/fix-unable-to-install-apps-iphone/",
+//     "urlToImage": "https://www.maketecheasier.com/assets/uploads/2022/11/iPhone-Unable-to-install-Apps.jpg",
+//     "publishedAt": "2023-07-25T05:25:00Z",
+//     "content": "Are you wondering why your iPhone is not installing apps? There could be several reasons for this bug including a bad internet connection, or an issue with your Apple ID. Whatever the reason, here ar… [+7354 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ozbargain.com.au"
+//     },
+//     "author": "AlwaysOnThePun",
+//     "title": "Refurbished iPhone 8 $199 @ Coles",
+//     "description": "Refurbished iPhone 8 is $199 @ Coles. Was $400+ but not realistically price at original.\n\nColours and stock etc is a lucky dip.\n\nRefurb iPhone SE is $229 also, I got one for $199 previously in excellent condition. https://www.coles.com.au/product/apple-iphone…",
+//     "url": "https://www.ozbargain.com.au/node/790031",
+//     "urlToImage": "https://files.ozbargain.com.au/n/31/790031l.jpg?h=ebf604e4",
+//     "publishedAt": "2023-07-25T02:35:11Z",
+//     "content": "Refurbished iPhone 8 is $199 @ Coles. Was $400+ but not realistically price at original.\r\nColours and stock etc is a lucky dip.\r\nRefurb iPhone SE is $229 also, I got one for $199 previously in excell… [+74 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Oliver Schwuchow",
+//     "title": "Apple Watch Ultra 2 kommt und wird wohl leichter",
+//     "description": "Mittlerweile gilt es als ziemlich sicher, dass Apple eine neue Apple Watch Ultra für 2023 geplant hat und so langsam kommen auch beim Highend-Modell erste Details ans Licht. Aus China […]",
+//     "url": "https://www.mobiflip.de/shortnews/apple-watch-ultra-2-leak-leichter/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/01/apple-watch-ultra-detail-header.jpg",
+//     "publishedAt": "2023-07-25T05:10:30Z",
+//     "content": "Mittlerweile gilt es als ziemlich sicher, dass Apple eine neue Apple Watch Ultra für 2023 geplant hat und so langsam kommen auch beim Highend-Modell erste Details ans Licht. Aus China hört man jetzt,… [+1076 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Giovanni Senioroce",
+//     "title": "Apple pflegt und unterstützt weiterhin ältere iOS- und macOS-Betriebssysteme",
+//     "description": "Nach der Veröffentlichung von iOS 16.6 und macOS Ventura 13.5 pflegt und unterstützt Apple stets auch ältere Versionen seines Betriebssystems. Besitzer eines Macs mit installierten macOS Big Sur und macOS […]",
+//     "url": "https://www.mobiflip.de/shortnews/apple-pflegt-und-unterstuetzt-weiterhin-aeltere-ios-und-macos-betriebssysteme/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/07/apple-geraete-header.jpg",
+//     "publishedAt": "2023-07-25T03:34:04Z",
+//     "content": "Nach der Veröffentlichung von iOS 16.6 und macOS Ventura 13.5 pflegt und unterstützt Apple stets auch ältere Versionen seines Betriebssystems. Besitzer eines Macs mit installierten macOS Big Sur und … [+639 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Oliver Schwuchow",
+//     "title": "iPhone 15 Pro: Display-Probleme von Apple seien bereits behoben",
+//     "description": "Wir haben letzte Woche von zwei Quellen erfahren, dass die Produktion der neuen Panels für das iPhone 15 Pro noch Probleme bereiten und Apple den Marktstart um ein paar Wochen verschieben könnte.",
+//     "url": "https://www.mobiflip.de/shortnews/iphone-15-pro-display-probleme-apple-behoben/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/05/apple-iphone-15-pro-titan-konzept.jpg",
+//     "publishedAt": "2023-07-25T06:00:20Z",
+//     "content": "Wir haben letzte Woche von zwei Quellen erfahren, dass die Produktion der neuen Panels für das iPhone 15 Pro noch Probleme bereiten und Apple den Marktstart um ein paar Wochen verschieben könnte. Es … [+1067 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Oliver Schwuchow",
+//     "title": "Vision Pro: Apple holt die Entwickler mit ins Boot",
+//     "description": "Apple Vision Pro kommt erst Anfang 2024 auf den Markt, in Deutschland vielleicht sogar erst Ende 2024 oder gar Anfang 2025. Doch die frühe Ankündigung auf der WWDC hatte natürlich […]",
+//     "url": "https://www.mobiflip.de/shortnews/vision-pro-apple-holt-die-entwickler-mit-ins-boot/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/06/apple-vision-pro-office.jpg",
+//     "publishedAt": "2023-07-25T04:18:30Z",
+//     "content": "Apple Vision Pro kommt erst Anfang 2024 auf den Markt, in Deutschland vielleicht sogar erst Ende 2024 oder gar Anfang 2025. Doch die frühe Ankündigung auf der WWDC hatte natürlich einen Sinn, denn Ap… [+2202 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Giovanni Senioroce",
+//     "title": "Apple stellt Schließung von Sicherheitslücken in macOS Ventura 13.5 in den Vordergrund",
+//     "description": "Bis die neue Version von macOS mit dem Namen „Sonoma“ im Herbst auf den Markt kommt, wird es noch ein paar Monate dauern. Bis dahin hat Apple also noch Zeit, […]",
+//     "url": "https://www.mobiflip.de/shortnews/apple-stellt-schliessung-von-sicherheitsluecken-in-macos-ventura-13-5-in-den-vordergrund/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/07/apple-logo-schloss-header.jpg",
+//     "publishedAt": "2023-07-25T03:24:55Z",
+//     "content": "Bis die neue Version von macOS mit dem Namen Sonoma im Herbst auf den Markt kommt, wird es noch ein paar Monate dauern. Bis dahin hat Apple also noch Zeit, das aktuelle macOS Ventura weiterzuentwicke… [+627 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Giovanni Senioroce",
+//     "title": "Surface Laptop Studio 2: Zweite Generation soll deutlich mehr Leistung haben",
+//     "description": "Seit Ende Februar 2022 ist das Surface Laptop Studio mit ausklappbarem Bildschirmgelenk für den Laptop- und den Stage-Modus in Deutschland erhältlich. Das Notebook wurde von der Presse sehr gut aufgenommen […]",
+//     "url": "https://www.mobiflip.de/shortnews/surface-laptop-studio-2-zweite-generation-soll-deutlich-mehr-leistung-haben/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/07/surface-laptop-studio-header.jpg",
+//     "publishedAt": "2023-07-25T04:40:50Z",
+//     "content": "Seit Ende Februar 2022 ist das Surface Laptop Studio mit ausklappbarem Bildschirmgelenk für den Laptop- und den Stage-Modus in Deutschland erhältlich.\r\nDas Notebook wurde von der Presse sehr gut aufg… [+1603 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "mobiFlip.de"
+//     },
+//     "author": "Oliver Schwuchow",
+//     "title": "Google Pixel Watch 2: Leak verspricht eine wichtige Änderung",
+//     "description": "Bei der Google Pixel Watch hatten wir die Details zur Smartwatch schon sehr früh, daher zeigte sie Google sogar im Mai auf einem Event. In diesem Jahr kann Google die […]",
+//     "url": "https://www.mobiflip.de/shortnews/google-pixel-watch-2-leak-aluminium/",
+//     "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2022/10/google-pixel-watch-maps.jpg",
+//     "publishedAt": "2023-07-25T03:50:57Z",
+//     "content": "Bei der Google Pixel Watch hatten wir die Details zur Smartwatch schon sehr früh, daher zeigte sie Google sogar im Mai auf einem Event. In diesem Jahr kann Google die Leaks etwas besser unter Kontrol… [+1604 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Applech2.com"
+//     },
+//     "author": "applech2",
+//     "title": "Apple、macOS 11 Big SurとmacOS 12 Monterey向けに複数の脆弱性を修正した「Safari 16.6」をリリース。",
+//     "description": "AppleがmacOS 11 Big SurとmacOS 12 Monterey向けに複数の脆弱性を修正した「Safari 16.6」をリリースしています。詳細は以下から。 　Appleは現地時間2023年07月24日\nThe post Apple、macOS 11 Big SurとmacOS 12 Monterey向けに複数の脆弱性を修正した「Safari 16.6」をリリース。 first appeared on AAPL Ch..",
+//     "url": "https://applech2.com/archives/20230725-safari-16-6-now-available.html",
+//     "urlToImage": "https://applech2.com/wp-content/uploads/2023/07/Safari-v16-6-for-macOS-12-Monterey.jpg",
+//     "publishedAt": "2023-07-25T01:29:53Z",
+//     "content": "ApplemacOS 11 Big SurmacOS 12 MontereySafari 16.6\r\nApple20230724macOS Big SurMontereymacOS 11.7.9 Big Sur (20G1426)macOS 12.6.8 Monterey (21G725)Big SurMontereySafari v16.6\r\nSafari\r\nApple0710macOS 13… [+145 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Maclife.de"
+//     },
+//     "author": "Ben Otterstein",
+//     "title": "Spotify erhöht die Preise weltweit – Deutschland vorerst nicht betroffen",
+//     "description": "Die Musikstreaming-Branche erfährt eine wichtige Änderung: Spotify, der weltweit führende Anbieter, passt seine Preisstruktur an. Während Nutzer auf der ganzen Welt tiefer in die Tasche greifen müssen, bleibt Deutschland zunächst von der Preiserhöhung verscho…",
+//     "url": "https://www.maclife.de/news/spotify-erhoeht-preise-weltweit-deutschland-vorerst-nicht-betroffen-mac-life-100122604.html",
+//     "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2023_30/image-122604--4599897.jpg?itok=qnaeBCHZ",
+//     "publishedAt": "2023-07-25T05:21:11Z",
+//     "content": "Eine globale Preissteigerung\r\nSpotify hat angekündigt, die Preise für seine Premium-Pläne in vielen Märkten weltweit zu erhöhen. Diese Entscheidung betrifft sowohl Einzel- als auch Familienabonnement… [+1915 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Applech2.com"
+//     },
+//     "author": "applech2",
+//     "title": "サンワサプライ、DisplayLinkチップを採用しApple M1/M2チップ搭載のMacBookでも最大3台の4Kディスプレイ出力が可能なドッキングステーションを発売。",
+//     "description": "サンワサプライがDisplayLinkチップを採用しApple M1/M2チップ搭載のMacBookでも最大3台の4Kディスプレイ出力が可能なドッキングステーションを発売しています。詳細は以下から。 　サンワサプライ株\nThe post サンワサプライ、DisplayLinkチップを採用しApple M1/M2チップ搭載のMacBookでも最大3台の4Kディスプレイ出力が可能なドッキングステーションを発売。 first appeared on AAPL Ch..",
+//     "url": "https://applech2.com/archives/20230725-sanwa-400-vga023-docking-station.html",
+//     "urlToImage": "https://applech2.com/wp-content/uploads/2023/07/Sanwa-400-VGA023-Docking-Station-Hero-2.jpg",
+//     "publishedAt": "2023-07-25T03:34:58Z",
+//     "content": "DisplayLinkApple M1/M2MacBook34K\r\n202307251Apple M1/M2MacBook34K HDMI3 4K 3 10in1 Win mac (400-VGA023)\r\n4K3USB Type-C100WUSB A×3Type-C ×243.5mm1GbpsLAN10in1\r\n HDMI3 4K 3 10in1 Win mac – \r\n400-VGA023S… [+335 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ferra.ru"
+//     },
+//     "author": "Булат Кармак",
+//     "title": "Apple начала рассылать AR-шлем Vision Pro разработчикам",
+//     "description": "Apple начала выдачу наборов для разработки своего нового AR-шлема Vision Pro первым девелоперам.",
+//     "url": "https://www.ferra.ru/news/techlife/apple-nachala-rassylat-ar-shlem-vision-pro-razrabotchikam-25-07-2023.htm",
+//     "urlToImage": "https://www.ferra.ru/imgs/2023/07/25/05/6018537/7772c8cac75459149887bb9500fbe5dcd74c8188.jpg",
+//     "publishedAt": "2023-07-25T05:42:07Z",
+//     "content": ", .\r\n Vision Pro , , , .\r\n .\r\n , Vision Pro , . , Apple iOS, iPadOS visionOS. - visionOS ."
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ferra.ru"
+//     },
+//     "author": "Булат Кармак",
+//     "title": "Android 14 научится отправлять SMS с помощью спутников",
+//     "description": "Следуя Apple и Huawei, Google со своей системой Android вступает в новую эру связи — эру с внедрением функции спутниковой связи.",
+//     "url": "https://www.ferra.ru/news/mobile/android-14-nauchitsya-otpravlyat-sms-s-pomoshyu-sputnikov-24-07-2023.htm",
+//     "urlToImage": "https://www.ferra.ru/imgs/2023/07/24/19/6018451/4a3aed97ab759a5532f206db4ae1fe2d86c44b5b.jpg",
+//     "publishedAt": "2023-07-25T04:17:19Z",
+//     "content": "TeamPixel FC, Android 14 SMS . , Wi-Fi, .\r\n , , . , , Google Pixel Samsung Galaxy.\r\n, Galaxy S23, Galaxy S24."
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Ferra.ru"
+//     },
+//     "author": "Булат Кармак",
+//     "title": "Ещё один источник подтвердил подорожание новых iPhone 15 Pro и 15 Pro Max",
+//     "description": "Согласно свежему отчёту Bloomberg, Apple рассматривает возможность повышения цен на свои флагманские смартфоны 2023 года: iPhone 15 Pro и iPhone 15 Pro Max.",
+//     "url": "https://www.ferra.ru/news/mobile/eshyo-odin-istochnik-podtverdil-podorozhanie-novykh-iphone-15-pro-i-15-pro-max-24-07-2023.htm",
+//     "urlToImage": "https://www.ferra.ru/imgs/2023/07/24/19/6018447/3de384fa7e3d5038ddbf924c4ea4abbdf9309538.png",
+//     "publishedAt": "2023-07-25T04:04:19Z",
+//     "content": ", iPhone 14 Pro iPhone 14 Pro Max $999 $1099 , , .\r\n, Pro Pro Max, . Apple «» iPhone 15 iPhone 15 Plus.\r\n , Apple iPhone 15, iPhone 14, 85 .\r\n ( ) , , iPhone Apple."
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Cointelegraph"
+//     },
+//     "author": "Cointelegraph By Tom Mitchelhill",
+//     "title": "OpenAI shutters AI detector due to low accuracy",
+//     "description": "OpenAI, the company behind ChatGPT, has decommissioned its AI text detector tool due to its low rate of accuracy. The company is currently looking for new ways to detect AI-generated text and audiovisual content.",
+//     "url": "https://cointelegraph.com/news/open-ai-detector-quietly-shutters-citing-low-accuracy",
+//     "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMWQwNGQyODUtYTJhOS00OTgzLWIzN2YtZDRmZGQ0ZTAwNmY2LmpwZw==.jpg",
+//     "publishedAt": "2023-07-25T01:45:00Z",
+//     "content": "Artificial intelligence powerhouse OpenAI has discreetly pulled the pin on its AI-detection software citing a low rate of accuracy.\r\nThe OpenAI-developed AI classifier was first launched on Jan. 31, … [+2315 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Techpowerup.com"
+//     },
+//     "author": "TheLostSwede",
+//     "title": "(PR) Sony Electronics Unveils WF-1000XM5 Truly Wireless Earbuds \"For The Music\"",
+//     "description": "Sony Electronics Inc. today announced the WF-1000XM5 earbuds - the latest truly wireless model of the award-winning 1000X series. This new model offers the Best Noise Canceling by reducing external noise over a wide bandwidth, from low to high frequencies so …",
+//     "url": "https://www.techpowerup.com/311629/sony-electronics-unveils-wf-1000xm5-truly-wireless-earbuds-for-the-music",
+//     "urlToImage": "https://www.techpowerup.com/img/9LGCIHa6CKyXC4pT.jpg",
+//     "publishedAt": "2023-07-25T04:31:34Z",
+//     "content": "Sony Electronics Inc. today announced the WF-1000XM5 earbuds - the latest truly wireless model of the award-winning 1000X series. This new model offers the Best Noise Canceling by reducing external n… [+10625 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Fitnessrevolucionario.com"
+//     },
+//     "author": "Marcos - Fitness Revolucionario, Marcos Vázquez",
+//     "title": "Mejora tu Disciplina: La Ciudadela Interior 9",
+//     "description": "“Ningún hombre es libre si no es dueño de sí mismo” – Epicteto En este nuevo episodio de La Ciudadela ...\nThe post Mejora tu Disciplina: La Ciudadela Interior 9 appeared first on Fitness Revolucionario.",
+//     "url": "https://www.fitnessrevolucionario.com/2023/07/25/mejora-tu-disciplina-la-ciudadela-interior-9/#article",
+//     "urlToImage": "https://www.fitnessrevolucionario.com/wp-content/uploads/2023/07/LaCiudadelaInterior9Disciplina.png",
+//     "publishedAt": "2023-07-25T05:56:20Z",
+//     "content": "Ningún hombre es libre si no es dueño de sí mismo Epicteto\r\nEn este nuevo episodio de La Ciudadela Interior veremos cómo mejorar la disciplina para alcanzar nuestros objetivos y lograr una vida más s… [+701 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Computerwoche.de Live"
+//     },
+//     "author": "Simon Lohmann",
+//     "title": "Statt Android-Tablet: 5 Gründe, warum Sie ein iPad kaufen sollten",
+//     "description": "Sie sind noch am Zweifeln? Wir liefern fünf Gründe, warum Sie sich endlich ein iPad anschaffen sollten.",
+//     "url": "https://www.computerwoche.de/a/5-gruende-warum-sie-ein-ipad-kaufen-sollten,3614938?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+//     "urlToImage": "https://images.computerwoche.de/bdb/3381218/640x360.jpg",
+//     "publishedAt": "2023-07-25T05:27:00Z",
+//     "content": "Mit iPadOS 17 wird das Apple-Tablet noch vielseitiger und persönlicher.Foto: Apple\r\nZögern Sie noch mit der Anschaffung eines iPads? Wir liefern Ihnen fünf Gründe, sich endlich eines zuzulegen! \r\nSei… [+2815 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Freebuf.com"
+//     },
+//     "author": null,
+//     "title": "苹果发布安全更新，修复了今年第11个零日漏洞！",
+//     "description": "苹果公司发布了安全更新，修复针对 iPhone、Mac 和 iPad 的零日漏洞。",
+//     "url": "https://www.freebuf.com/news/372954.html",
+//     "urlToImage": null,
+//     "publishedAt": "2023-07-25T03:54:27Z",
+//     "content": "iPhoneMac iPad \r\n WebKit CVE-2023-37450 (RSR) \r\n CVE-2023-38606 iOS \r\n iOS 15.7.1 iOS \r\n GReAT Boris Larin CVE-2023-38606 iMessage iPhone Triangulation \r\n tvOS 16.6 watchOS 9.6 5 CVE-2023-32409\r\n mac… [+418 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Newsshooter"
+//     },
+//     "author": "Matthew Allard ACS",
+//     "title": "Save up to $1,400 USD on Apple MacBook Pros",
+//     "description": "B&H has some pretty good deals on Apple Apple MacBook Pros where you can save up to $1,400 USD. Yes, these are M1 models, but they are still extremely capable machines. Apple 14.2″ MacBook Pro with M1 Max Chip (Late 2021, Silver) 64GB Unified RAM | 2TB SSD $2…",
+//     "url": "https://www.newsshooter.com/2023/07/24/save-up-to-1400-usd-on-apple-macbook-pros/",
+//     "urlToImage": "https://www.newsshooter.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-at-1.57.16-PM-740x518.png",
+//     "publishedAt": "2023-07-25T05:06:35Z",
+//     "content": "B&amp;H has some pretty good deals on Apple Apple MacBook Pros where you can save up to $1,400 USD. Yes, these are M1 models, but they are still extremely capable machines. \r\nThe Apple 14.2″ MacBook … [+2208 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": "usa-today",
+//     "name": "USA Today"
+//     },
+//     "author": "USA TODAY, Anthony Robledo, USA TODAY",
+//     "title": "The Las Vegas Sphere flexed its size and LED images. Now it's teasing its audio system",
+//     "description": "The MSG Sphere in Las Vegas is not only the largest sphere on Earth but also home to world's most advanced audio system.",
+//     "url": "https://www.usatoday.com/story/tech/news/2023/07/24/msg-sphere-las-vegas-teases-most-advanced-audio-system/70460205007/",
+//     "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/07/25/USAT/70460284007-1517818556.jpg?auto=webp&crop=6216,3513,x0,y621&format=pjpg&width=1200",
+//     "publishedAt": "2023-07-25T02:31:12Z",
+//     "content": "The MSG Sphere in Las Vegas is not only the largest sphere on Earth but home to the worlds most advanced audio system, the Sphere Entertainment Company announced on Monday.\r\nSphere Studios has partne… [+1762 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Overclockers.ru"
+//     },
+//     "author": "Алексей Сычёв",
+//     "title": "Японский производитель 2-нм чипов Rapidus готов искать клиентов в США",
+//     "description": "Но услуги компании не обещают быть дешёвыми.",
+//     "url": "https://overclockers.ru/hardnews/show/127520/yaponskij-proizvoditel-2-nm-chipov-rapidus-gotov-iskat-klientov-v-ssha",
+//     "urlToImage": "https://overclockers.ru/st/images/preview/F1kW7V0lUCUlkcKm.jpg",
+//     "publishedAt": "2023-07-25T03:53:00Z",
+//     "content": "Rapidus Nikkei Asian Review , , , , - Google, Apple, Meta, Amazon Microsoft.\r\n Rapidus, 2027 2- , , 40- . 2- Rapidus 2025 , 2024 . , , .\r\n , Rapidus , . , $35 2- . , . Hitachi, , , Rapidus . (Atsuyos… [+24 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Overclockers.ru"
+//     },
+//     "author": null,
+//     "title": "ТОП-12 неудачных технических решений в сфере компьютерной техники",
+//     "description": "Рассказываю о преднамеренных и непреднамеренных фейлах производителей, а также противопоставляю им удачные задумки",
+//     "url": "https://overclockers.ru/blog/Zeroblog/show/100287/top-12-neudachnyh-tehnicheskih-reshenij-v-sfere-kompjuternoj-tehniki",
+//     "urlToImage": "https://overclockers.ru/st/legacy/blog/378660/398895_O.png",
+//     "publishedAt": "2023-07-25T05:01:07Z",
+//     "content": "! Zero, , . -- , . , !\r\nUSB- Type-A, MicroUSB USB Type-B\r\n USB , , , . USB , - - . , USB- Type-A, MicroUSB USB Type-B . , .\r\n USB Type-C, ? . , USB- , , «»? , , , .\r\n, . , - , . . « , ». , - . USB , … [+1199 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Iphone-mania.jp"
+//     },
+//     "author": "m7000",
+//     "title": "英アプリ開発者、App Storeの手数料を巡りAppleを集団提訴",
+//     "description": "App Storeの手数料を巡り、英国の1,500人以上のアプリ開発者がAppleに対して、7億8,500万ポンド（約1,400億円）の損害賠償を求める集団訴訟を起こしたことが明らかとなりました。同社は、App Store上で行われる取引に対して最大30%の手数料を開発者に課していますが、これがアプリ開発者から批判を浴び、いくつかの国で反トラスト法（独占禁止法）当局の調査対象となっています。\n \n\n■3行で分かる、この記事のポイント\n1.英国の1,500人以上のアプリ開発者がAppleを集団提訴。\n2.グループの…",
+//     "url": "https://iphone-mania.jp/news-546410/",
+//     "urlToImage": "https://iphone-mania.jp/uploads/2022/10/28/open_graph_logo.png",
+//     "publishedAt": "2023-07-25T02:59:50Z",
+//     "content": "App Store1,500Apple78,5001,400App Store30%31.1,500Apple2.Apple3.App Store\r\n78500\r\n1,566OECDAppleiPhoneiPadAppleApp Store85%App Store175\r\nApp Store\r\nApple30%115%Small Business ProgramApp Store100115%1… [+244 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Iphone-mania.jp"
+//     },
+//     "author": "lunatic",
+//     "title": "iOS/iPadOS16.6では16の脆弱性を修正〜うち2つは悪用が確認済み",
+//     "description": "Appleは現地時間7月24日、iOS16.6およびiPadOS16.6を公開しました。\n \niOS16.6、iPadOS16.6はバグ修正とセキュリティアップデートがメインとなっており、16の脆弱性が修正されていることが、Appleが公開した文書に記されています。\n\n■3行で分かる、この記事のポイント\n1. iOS16.6とiPadOS16.6がリリース。\n2. 今回のアプデでは16の脆弱性が修正されている。\n3. 16のうち2つはすでに悪用が確認されているとの報告あり。\n\n16の脆弱性が修正。うち2つは悪用さ…",
+//     "url": "https://iphone-mania.jp/news-546451/",
+//     "urlToImage": "https://iphone-mania.jp/uploads/2023/07/25/iOS16.6-COM.jpg",
+//     "publishedAt": "2023-07-25T03:07:27Z",
+//     "content": "Apple724iOS16.6iPadOS16.6iOS16.6iPadOS16.616Apple31. iOS16.6iPadOS16.62. 163. 162\r\n162\r\nAppleiOS16.6iPadOS16.6WebKitApple Neural Engine16162AppleApple\r\n<ul><li>AppleiOS15.7.1</li><li>WebKitWebApple</… [+89 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "The Mac Observer"
+//     },
+//     "author": "Nick deCourville",
+//     "title": "How to Fix Safari Crashing Problems on Your Mac",
+//     "description": "Do you find that Safari keeps crashing on your Mac? While annoying, it can be a simple problem to solve. Apple's default browser, millions of users trust Safari as their experience for surfing the internet. From browser extensions to a built-in ad blocker and…",
+//     "url": "https://www.macobserver.com/tips/how-to/safari-crashing-mac/",
+//     "urlToImage": "https://www.macobserver.com/wp-content/uploads/2023/07/Safari-Crashing-Mac-July-2023-Featured.jpeg",
+//     "publishedAt": "2023-07-25T00:55:00Z",
+//     "content": "Do you find that Safari keeps crashing on your Mac? While annoying, it can be a simple problem to solve. Apple’s default browser, millions of users trust Safari as their experience for surfing the in… [+10430 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "CNA"
+//     },
+//     "author": null,
+//     "title": "Driven by AI boom, TSMC to invest $2.9 billion in advanced chip plant in Taiwan",
+//     "description": "TAIPEI :Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90 billion ($2.87 billion) in an advanced packaging facility in northern Taiwan, the company said on Tuesday. \"To meet market needs, TSMC is pl…",
+//     "url": "https://www.channelnewsasia.com/business/driven-ai-boom-tsmc-invest-29-billion-advanced-chip-plant-taiwan-3651831",
+//     "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--i-PRoyrK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-25t032725z_2_lynxmpej6o01i_rtroptp_3_taiwan-tsmc.jpg?itok=xbnSlsON",
+//     "publishedAt": "2023-07-25T02:14:24Z",
+//     "content": "TAIPEI :Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90 billion ($2.87 billion) in an advanced packaging facility in northern Taiwan, th… [+1539 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Daily Mail"
+//     },
+//     "author": "Christopher Stevens",
+//     "title": "CHRISTOPHER STEVENS reviews last night's TV: If a corduroy jacket is the height of fashion, then I'm Naomi Campbell!",
+//     "description": "CHRISTOPHER STEVENS: The Unique Boutique suffers from two serious problems: a slow pace, and a budget that would barely cover the cost of one designer outfit, let alone a series.",
+//     "url": "https://www.dailymail.co.uk/tvshowbiz/article-12332869/CHRISTOPHER-STEVENS-reviews-nights-TV-corduroy-jacket-height-fashion-Im-Naomi-Campbell.html",
+//     "urlToImage": "https://i.dailymail.co.uk/1s/2023/07/25/01/73564675-0-image-a-8_1690243498500.jpg",
+//     "publishedAt": "2023-07-25T00:06:55Z",
+//     "content": "The Unique Boutique\r\nRating:\r\nEarth\r\nRating:\r\nAw, bless. Here's one more crime against wokeness to avoid, if you don't want to cause offence and perhaps even get yourself cancelled.\r\nThere's nothing … [+4030 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Electrek"
+//     },
+//     "author": "Mikey G",
+//     "title": "Quick Charge Podcast: July 24, 2023",
+//     "description": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\n\r\n\n more…\nThe post Quick Charge Podcast: July 24, 2023 appeared first on E…",
+//     "url": "https://electrek.co/2023/07/24/quick-charge-podcast-july-24-2023/",
+//     "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/01/quick-charge-placeholder-lead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+//     "publishedAt": "2023-07-25T03:37:24Z",
+//     "content": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\r\nNew episodes … [+636 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Insurance Journal"
+//     },
+//     "author": "Admin",
+//     "title": "Apple Faces $1 Billion UK Lawsuit by Apps Developers Over App Store Fees",
+//     "description": "Apple on Tuesday found itself the target of a 785-million-pound ($1 billion) class action lawsuit brought by more than 1,500 apps developers in the UK over its App Store fees. Apple’s services business, which includes the App Store, has seen …",
+//     "url": "https://www.insurancejournal.com/news/international/2023/07/25/731986.htm",
+//     "urlToImage": "https://www.insurancejournal.com/app/uploads/2019/05/apple-app-store-mobile-580x387.jpg",
+//     "publishedAt": "2023-07-25T05:50:42Z",
+//     "content": "Apple on Tuesday found itself the target of a 785-million-pound ($1 billion) class action lawsuit brought by more than 1,500 apps developers in the UK over its App Store fees.\r\nApple’s services busin… [+1247 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Zacks.com"
+//     },
+//     "author": "247patrick",
+//     "title": "5 Technology Stocks Poised to Beat Earnings Estimates in Q2",
+//     "description": "These stocks are well-poised to beat earnings estimates due to a strong product portfolio powered by AI.",
+//     "url": "https://www.zacks.com/stock/news/2126272/5-technology-stocks-poised-to-beat-earnings-estimates-in-q2",
+//     "urlToImage": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry16-j5i.jpg",
+//     "publishedAt": "2023-07-25T02:50:33Z",
+//     "content": "The technology sector had a strong second-quarter 2023, driven by an improving global macro-economic environment and a less-hawkish stance from the U.S. Federal Reserve, as well as strong adoption of… [+5397 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Nyteknik.se"
+//     },
+//     "author": "Kalle Wiklund",
+//     "title": "Test: Macbook Air 15 tum M2 – “Apple-datorn vi alla har saknat”",
+//     "description": "Apple satsar på säkra kort – men övertygar ändå. Nya Macbook Air är precis vad många har längtat efter, trots att 15-tummaren bjuder på relativt få nyheter, skriver Ny Tekniks Kalle Wiklund.",
+//     "url": "https://www.nyteknik.se/tech/test-macbook-air-15-tum-m2-apple-datorn-vi-alla-har-saknat/3687544",
+//     "urlToImage": "https://image.nyteknik.se/3927690.webp?imageId=3927690&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683&format=jpg",
+//     "publishedAt": "2023-07-25T04:00:00Z",
+//     "content": "Ny Teknik bevakar och skriver om ny teknik inom områden som fordons-industri, innovation, digitalisering, bygg, miljö, it och telekom. Ny Teknik skriver också om nya entreprenörer, life science, indu… [+400 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Boston Herald"
+//     },
+//     "author": "Tribune News Service",
+//     "title": "Director Ryan Coogler reveals why Steph Curry peeled back the veil for ‘Underrated’ doc (EXCLUSIVE)",
+//     "description": "NBA star Steph Curry is motivating others to shoot their best shot in Apple TV’ s Stephen Curry: Underrated. The documentary’ s producers,“ Black Panther” director Ryan Coogler and Unanimous Media’ s Erick Peyton, revealed the Golden State Warriors star wante…",
+//     "url": "https://www.bostonherald.com/2023/07/24/director-ryan-coogler-reveals-why-steph-curry-peeled-back-the-veil-for-underrated-doc-exclusive/",
+//     "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/202307211535TMS_____MNGTRPUB_SPORTS-DIRECTOR-RYAN-COOGLER-REVEALS-WHY-STEPH-4-NY5.jpg?w=1024&h=576",
+//     "publishedAt": "2023-07-25T02:22:34Z",
+//     "content": "NBA star Steph Curry is motivating others to shoot their best shot in Apple TV’s Stephen Curry: Underrated.\r\nThe documentary film chronicles intimate details of Curry’s rise from in his own words “th… [+3087 chars]"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Worldsoccertalk.com"
+//     },
+//     "author": "World Soccer Talk",
+//     "title": "Where to find LA Galaxy vs León on US TV",
+//     "description": "Here are all of the details of where you can watch LA Galaxy vs León on US television and via legal streaming: WHO LA Galaxy vs León WHAT Leagues Cup WHEN 10:30pm ET / 7:30pm PT • Tuesday, July 25, 2023 WHERE MLS Season Pass STREAM WATCH NOW MLS Season Pass i…",
+//     "url": "https://worldsoccertalk.com/tv/where-to-find-la-galaxy-vs-leon-on-us-tv-20230725-WST-444965.html",
+//     "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230725_WST_444965_lag-leon-lc.jpg[ampersand]width=1200[ampersand]height=740",
+//     "publishedAt": "2023-07-25T04:01:00Z",
+//     "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Worldsoccertalk.com"
+//     },
+//     "author": "World Soccer Talk",
+//     "title": "Where to find Man United vs Wrexham on US TV",
+//     "description": "Here are all of the details of where you can watch Man United vs Wrexham on US television and via legal streaming: WHO Man United vs Wrexham WHAT Friendly WHEN 10:30pm ET / 7:30pm PT • Tuesday, July 25, 2023 WHERE ESPN+, ESPN2, ESPN Deportes, Fubo, DirecTV St…",
+//     "url": "https://worldsoccertalk.com/tv/where-to-find-man-united-vs-wrexham-on-us-tv-20230725-WST-444967.html",
+//     "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230725_WST_444967_manu-wrex-friendly.jpg[ampersand]width=1200[ampersand]height=740",
+//     "publishedAt": "2023-07-25T04:02:00Z",
+//     "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+//     },
+//     {
+//     "source": {
+//     "id": null,
+//     "name": "Applelinkage.com"
+//     },
+//     "author": "Al",
+//     "title": "Apple、「Vision Proデベロッパキット」を提供開始",
+//     "description": "Apple Inc.が、「Apple Vision Proデベロッパキット」の提供を開始しています。 Apple Developer Programに登録しているデベロッパは、本日よりVision Proデベロッパキット … 続きを読む Apple、「Vision Proデベロッパキット」を提供開始 →",
+//     "url": "https://www.applelinkage.com/2023/07/25/apple-vision-pro-developer-kit-now-available/",
+//     "urlToImage": null,
+//     "publishedAt": "2023-07-25T00:01:01Z",
+//     "content": "Apple Inc.Apple Vision Pro\r\nApple Developer ProgramVision Pro\r\nVision Pro"
+//     }
+//     ]
+//     }
